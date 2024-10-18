@@ -9,7 +9,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view : **[click here](https://courageous-pika-f008e7.netlify.app/)**
+To view : **[click here](blurryface04.netlify.app)**
 
 ---
 ## Getting Started 🚀
