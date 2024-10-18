@@ -9,7 +9,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here](https://the-simplefolio.netlify.app/)**
+To view : **[click here](https://courageous-pika-f008e7.netlify.app/)**
 
 ---
 ## Getting Started 🚀
